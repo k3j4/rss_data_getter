@@ -42,6 +42,8 @@ class RecognizeLink extends Functions
     }
 }
 
+// ------------Start script--------------- //
+
 $recognize_link = new RecognizeLink();
 
 $recognize_link->run_script($recognize_link);
