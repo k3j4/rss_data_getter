@@ -1,0 +1,132 @@
+2019-04-16 16:49:25  Rozpoczęto wykonywanie skryptu
+2019-04-16 16:49:26  Dodano artykuł o id: 47 
+2019-04-16 16:49:26  Zakończono wykonywanie skryptu
+
+2019-04-16 16:49:43  Rozpoczęto wykonywanie skryptu
+2019-04-16 16:49:44  Dodano artykuł o id: 48 
+2019-04-16 16:49:44  Zakończono wykonywanie skryptu
+
+2019-04-16 16:51:19  Rozpoczęto wykonywanie skryptu
+2019-04-16 16:51:20  Dodano artykuł o id: 49 
+2019-04-16 16:51:20  Zakończono wykonywanie skryptu
+
+2019-04-16 16:53:49  Rozpoczęto wykonywanie skryptu
+2019-04-16 16:53:49  Dodano artykuł o id: 50 
+2019-04-16 16:53:49  Zakończono wykonywanie skryptu
+
+2019-04-16 16:54:11  Rozpoczęto wykonywanie skryptu
+2019-04-16 16:54:12  Dodano artykuł o id: 51 
+2019-04-16 16:54:12  Zakończono wykonywanie skryptu
+
+2019-04-16 16:55:36  Rozpoczęto wykonywanie skryptu
+2019-04-16 16:55:37  Zakończono wykonywanie skryptu
+
+2019-04-16 16:55:45  Rozpoczęto wykonywanie skryptu
+2019-04-16 16:55:46  Dodano artykuł o id: 52 
+2019-04-16 16:55:46  Zakończono wykonywanie skryptu
+
+2019-04-16 16:56:38  Rozpoczeto wykonywanie skryptu
+2019-04-16 16:56:39  Dodano artykul o id: 53 
+2019-04-16 16:56:39  Zakonczono wykonywanie skryptu
+
+2019-04-16 16:57:58  Rozpoczeto wykonywanie skryptu
+2019-04-16 16:57:58  Dodano artykul o id: 54 
+2019-04-16 16:57:58  Zakonczono wykonywanie skryptu
+
+2019-04-16 16:58:58  Dodano artykul o id: 55 
+2019-04-16 16:58:58  Zakonczono wykonywanie skryptu
+
+2019-04-16 17:44:50  Rozpoczeto wykonywanie skryptu
+2019-04-16 17:44:51  Dodano artykul o id: 56 
+2019-04-16 17:44:51  Zakonczono wykonywanie skryptu
+
+2019-04-16 17:45:07  Rozpoczeto wykonywanie skryptu
+2019-04-16 17:45:08  Dodano artykul o id: 57 
+2019-04-16 17:45:08  Zakonczono wykonywanie skryptu
+
+2019-04-16 17:45:11  Rozpoczeto wykonywanie skryptu
+2019-04-16 17:45:11  Zakonczono wykonywanie skryptu
+
+2019-04-16 17:45:21  Rozpoczeto wykonywanie skryptu
+2019-04-16 17:45:21  Dodano artykul o id: 58 
+2019-04-16 17:45:21  Zakonczono wykonywanie skryptu
+
+2019-04-16 17:45:28  Rozpoczeto wykonywanie skryptu
+2019-04-16 17:45:28  Dodano artykul o id: 59 
+2019-04-16 17:45:28  Zakonczono wykonywanie skryptu
+
+2019-04-16 17:45:42  Rozpoczeto wykonywanie skryptu
+2019-04-16 17:45:42  Dodano artykul o id: 60 
+2019-04-16 17:45:42  Zakonczono wykonywanie skryptu
+
+2019-04-16 17:45:45  Rozpoczeto wykonywanie skryptu
+2019-04-16 17:45:46  Zakonczono wykonywanie skryptu
+
+2019-04-16 17:49:16  Rozpoczeto wykonywanie skryptu
+2019-04-16 17:50:27  Rozpoczeto wykonywanie skryptu
+2019-04-16 17:50:40  Rozpoczeto wykonywanie skryptu
+2019-04-16 17:50:52  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:06:32  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:08:00  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:08:01  Zakonczono wykonywanie skryptu
+
+2019-05-03 01:12:12  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:12:13  Zakonczono wykonywanie skryptu
+
+2019-05-03 01:14:42  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:14:42  Zakonczono wykonywanie skryptu
+
+2019-05-03 01:15:50  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:15:51  Dodano artykul o id: 8 
+2019-05-03 01:15:51  Zakonczono wykonywanie skryptu
+
+2019-05-03 01:27:38  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:28:05  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:28:16  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:28:17  Dodano artykul o id: 9 
+2019-05-03 01:28:17  Zakonczono wykonywanie skryptu
+
+2019-05-03 01:28:32  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:28:32  Dodano artykul o id: 10 
+2019-05-03 01:28:32  Zakonczono wykonywanie skryptu
+
+2019-05-03 01:28:53  Dodano artykul o id: 11 
+2019-05-03 01:28:53  Zakonczono wykonywanie skryptu
+
+2019-05-03 01:29:36  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:30:02  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:32:13  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:32:26  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:34:19  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:37:26  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:37:27  Dodano artykul o id: 12 
+2019-05-03 01:37:27  Zakonczono wykonywanie skryptu
+
+2019-05-03 01:37:39  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:40:23  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:42:01  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:43:52  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:46:40  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:48:08  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:48:30  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:48:36  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:49:14  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:49:15  Dodano artykul o id: 13 
+2019-05-03 01:49:15  Zakonczono wykonywanie skryptu
+
+2019-05-03 01:49:21  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:49:22  Dodano artykul o id: 14 
+2019-05-03 01:49:22  Zakonczono wykonywanie skryptu
+
+2019-05-03 01:49:36  Dodano artykul o id: 15 
+2019-05-03 01:49:36  Zakonczono wykonywanie skryptu
+
+2019-05-03 01:52:10  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:52:11  Dodano artykul o id: 16 
+2019-05-03 01:52:11  Zakonczono wykonywanie skryptu
+
+2019-05-03 01:52:17  Rozpoczeto wykonywanie skryptu
+2019-05-03 01:52:17  Dodano artykul o id: 17 
+2019-05-03 01:52:17  Zakonczono wykonywanie skryptu
+
+2019-05-03 01:52:24  Rozpoczeto wykonywanie skryptu
